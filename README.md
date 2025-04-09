@@ -1,3 +1,3 @@
-# Atividade governança#
+# Atividade governança
 
-[]missões 
+()missões 
