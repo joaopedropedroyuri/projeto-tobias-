@@ -14,8 +14,8 @@
 ## 🎯 OKRs (Objectives and Key Results)
 
 ### Objetivo 1: [ Inplementar a automação  ]
--comprar os componentes;
--realizar a programação
+- comprar os componentes;
+- realizar a programação
 - utilizar e testar 
 ### Objetivo 2: [ Melhorar performance da inplementação ]
 - comprar os componetes para utilizar via bluetooth
