@@ -7,8 +7,8 @@
 - fazer a Automação em ate 6 meses.
 
 ## 💸 Valores
--economia de energia 
--evitar esquicimento da LUZ e Ventilador 
+- economia de energia 
+- evitar esquicimento da LUZ e Ventilador 
 ---
 
 ## 🎯 OKRs (Objectives and Key Results)
